@@ -1,0 +1,11 @@
+.show_all_payments::-webkit-scrollbar {
+    display: none;
+}
+.show_all_payments{
+    display:flex;
+    flex-direction:column;
+     width:max-content;
+      margin-top:5px;
+       max-height:200px;
+        overflow:auto;
+}

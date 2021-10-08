@@ -4,7 +4,7 @@
 - React 
   -   Material UI
   -   Routing
-  -   useState, useRef, useEffect
+  -   Hooks
   -   Dialogs
   -   MaterialTable
   -   Formik
